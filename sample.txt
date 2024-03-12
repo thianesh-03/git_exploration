@@ -1,1 +1,2 @@
 Hello! This is a sample github text file.
+//This is now altered at cloud repo
